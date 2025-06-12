@@ -6,7 +6,7 @@ Problem Statement:
 Company ABC wants to move their product to AWS. They have the following things set up right now:
 1. MySQL DB
 2. Website (PHP)
-The company wants high availability on this product, therefore wants Auto Scaling to be enabled on this website.
+The company wants high availability on this product, therefore wants Auto Scaling to be enabled on this website..
 
 Steps To Solve:
 - Launch an EC2 Instance
